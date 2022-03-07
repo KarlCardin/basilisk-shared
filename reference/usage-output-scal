@@ -1,0 +1,4 @@
+  	/*contact_iden(f, f.contact , cs);*/
+  	FILE * fp44 = fopen ("contact","w");
+     output_scal(contact,fp44);
+     fclose (fp44);
