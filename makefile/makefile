@@ -1,2 +1,2 @@
-CFLAGS += -O2 -I/home/karl/Documents/basilisk-shared 
+CFLAGS += -O2 -I$(BASILISKSHARE) 
 include $(BASILISK)/Makefile.defs
